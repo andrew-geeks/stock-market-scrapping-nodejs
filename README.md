@@ -18,6 +18,9 @@ MoneyControl: <https://www.moneycontrol.com/>
 
 # Connect
 > Instagran: <https://www.instagram.com/_andrewgeeks>
+> 
 > Twitter: <https://twitter.com/andrewgeorge002>
+> 
 > YouTube: <https://www.youtube.com/channel/UCGFh5o4DYtdBqmREPNrTmaA>
+> 
 > Discord: <https://discord.gg/Mra4Gvzg>
